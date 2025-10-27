@@ -8,9 +8,8 @@
 </head>
 <body>
   <h1>Welcome to CV Maker</h1>
-  <p>Create your professional CV easily.</p>
+  <p>Create your professional CV.</p>
 
-  <!-- FIXED: 'methos' → 'method' -->
   <form action="process.php" method="post">
 
     <h2>Personal Information</h2>
